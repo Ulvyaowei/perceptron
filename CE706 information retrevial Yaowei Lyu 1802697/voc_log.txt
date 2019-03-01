@@ -1,0 +1,723 @@
+research information research interests
+member
+language
+computation group
+lac
+essex
+recent 17th lac day
+september
+events
+lac day
+lac day
+lac day
+lac day
+lac day
+lac day
+lac day
+programme
+lac
+group
+research interests
+natural language processing
+nlp
+information retrieval
+ir
+implementation
+such techniques
+real applications
+intelligent directory enquiry assistant
+ypa
+project
+example
+few years
+extraction
+information
+data
+engineering issues
+major roles
+ypa
+usable online system
+techniques
+extraction
+conceptual information
+document collections
+utilization
+such knowledge
+retrieval tasks
+type
+documents
+web pages
+newspaper articles
+other forms
+data
+example application
+place
+bt
+mobile workforce
+look
+log analysis study
+current projects
+collaboration
+five-year esrc large grant
+human rights
+era
+big data
+language
+computation group
+fox/poesio/kruschwitz
+significant role
+project
+links
+minority rights group
+watch
+space
+centre
+doctoral training
+cdt
+intelligent games
+game intelligence
+iggi
+phd student scholarships
+years
+epsrc
+industrial partners
+students
+profiles
+cdt
+university
+york
+university
+essex
+queen mary
+university
+london
+goldsmiths college
+university
+london
+email
+three-year knowledge transfer partnership
+ktp
+project
+minority rights group
+essex
+poesio/kruschwitz
+new systems
+civilian-led monitoring
+human-rights violations
+iraq ceasefire portal
+major outcomes
+project
+corpus
+violence acts
+arabic social media
+academic resource
+detail
+lrec
+paper
+successful knowledge transfer partnership
+ktp
+project
+starting point
+ongoing collaboration
+signal media
+university
+pi i
+miguel martinez-alvarez
+ktp associate
+head
+research
+signal
+timeline
+exciting news
+collaboration
+miguel
+business leader
+tomorrow
+short video portrait
+miguel
+coverage
+event / main actors
+demo award
+signal demo
+signal
+growth capital
+top tier investors
+techcrunch
+signal project
+ktp partnership award
+project
+innovateuk's home page
+landmark
+series b funding round
+december
+new ktp project
+annotated resources
+semantic wikis
+anawiki
+epsrc
+project
+development
+phrase detectives
+annotation game
+creation
+corpora
+dali project
+findings
+lessons
+phrasedetectives
+recent research/development projects
+sensei fp7 project
+november
+one-line aim
+project
+sense
+human-human conversation
+example
+advanced natural-language engineering techniques
+anaphora resolution
+multi-document summarization
+use
+sensei technology
+brexit results
+articles
+polish
+look
+automatic adaptation
+knowledge structures
+information
+autoadapt
+project
+school
+computer science
+electronic engineering
+robert gordon university aberdeen
+open university
+project
+methods
+domain models
+population
+users
+search
+behaviour
+application
+large-scale evaluation
+developed methods
+information
+scenarios
+interactive search
+focus
+project
+pebl-ai
+project
+patient experience
+public engagement blogs
+pebl
+project
+pebl-ai
+automated interface
+clinical commissioner groups
+ccgs
+communities
+development
+career path framework
+ktp project
+school
+computer science
+electronic engineering
+jobserve
+world
+first internet recruitment service
+development
+intelligent mail server
+ktp project
+school
+computer science
+electronic engineering
+active web solutions
+aws
+ipswich
+company
+edge enterprise information systems
+disabilities data
+information infrastructure project
+markup-based knowledge extraction project
+epsrc
+intelligent directory enquiry
+ypa
+project
+bt
+current/recent involvements panel chair
+karen
+jones
+recent call
+committee member
+irsg
+winter
+irsg newsletter
+text analytics
+london
+co-organiser
+game ai meetup
+london
+co-organiser
+acl
+area chair
+resources
+evaluation
+ecir
+industry day
+organiser
+sigir
+programme committee
+full papers
+short papers
+demos +
++ industry track
+sirip
+ecir
+senior programme committee
+doctoral consortium committee
+programme committee
+text2story'19
+workshop
+programme committee
+chiir
+programme committee
+web conference
+programme committee
+user modeling/personalization/experience track
+wsdm
+programme committee + outstanding pc member
+aaai
+programme committee
+uistda
+programme committee
+swisstext
+programme committee
+ldk
+programme committee
+search solutions
+co-organiser
+emnlp
+programme committee
+sigir
+programme committee
+full papers
+short papers
+demos
+professional search workshop
+profs2018
+sigir
+co-chair
+airs
+programme committee
+games4nlp
+co-chair
+fdia
+programme committee
+hcomp
+programme committee
+ictir
+sponsorship co-chair
+chiir
+programme committee
+web conference
+programme committee
+user modeling/personalization/experience track
+wsdm
+programme committee
+programme committee
+cikm
+programme committee
+ecir
+senior programme committee + tutorials + demos
+dir
+programme committee
+text2story'18
+workshop
+programme committee + keynote
+newsir'18
+workshop
+programme committee
+lrec
+scientific committee
+swisstext
+programme committee
+iswc
+programme committee
+search solutions
+co-organiser
+sigir
+programme committee
+full + short papers
+demos + tutorials
+award ranlp
+programme committee
+fdia
+programme committee
+programme committee
+short papers
+mindtrek
+data-driven gamification design worksop
+programme committee
+cikm
+programme committee
+iswc
+programme committee
+games4nlp
+programme committee
+ecir
+senior programme committee + short papers
+demos + industry day co-chair
+www
+programme committee
+user modeling/personalization/experience track
+eswc
+track
+multiling
+programme committee
+chiir
+programme committee
+mmm
+programme committee
+search solutions
+co-organiser
+gamification
+information retrieval
+gamifir'16
+workshop
+sigir
+co-organiser
+sigir
+programme committee
+full + short papers
+demos
+programme committee
+short papers
+cikm
+programme committee
+workshop
+cultural heritage
+scale
+jcdl
+programme committee
+workshop
+recent advances
+news information retrieval
+ecir
+co-organiser
+board
+wsdm
+programme committee
+chiir
+programme committee
+ecir
+senior programme committee + pc demos
+lrec
+scientific committee
+workshop
+jcdl
+programme committee
+eswc
+programme committee
+search solutions
+co-organiser
+multiling
+programme committee
+cikm
+programme committee
+ir track
+programme committee
+jcdl
+tutorials co-chair
+sigir
+programme committee
+full + short papers
+fdia
+programme committee
+gamification
+information retrieval
+gamifir'15
+workshop
+co-organiser
+ecir
+senior programme committee + panellist
+aaai
+student program
+programme committee
+clef
+news recommender challenge
+newsreel
+committee
+eswc
+programme committee
+acl
+workshop
+hybrid approaches
+translation
+hytra
+programme committee
+ranlp
+programme committee
+international conference
+web intelligence
+programme committee
+ir
+programme committee
+search solutions
+co-organiser
+sigir
+programme committee
+symposium
+ir
+practice
+programme committee
+gamification
+information retrieval
+gamifir'14
+workshop
+co-organiser
+single-shot text queries
+gap
+research communities
+mindthegap'14
+workshop
+iconference
+co-organiser
+iiix
+programme committee
+irf conference
+programme committee
+ecir
+programme committee
+lrec
+scientific committee
+eacl
+workshop
+hybrid approaches
+translation
+hytra
+programme committee
+umap
+workshop
+personalised multilingual information access
+programme committee
+clef
+news recommender challenge
+newsreel
+committee
+board
+mmm
+co-chair
+aaai
+student program
+programme committee
+international conference
+web intelligence
+programme committee
+search solutions
+co-organiser
+sigir
+short paper
+demo co-chair / programme committee
+sigir
+bars
+programme committee
+sigir
+enrich workshop
+programme committee
+ranlp
+programme committee
+ijcnlp
+programme committee
+ecir
+programme committee
+dir
+programme committee
+irf conference
+programme committee
+international conference
+web intelligence
+programme committee
+ir
+programme committee
+eswc
+programme committee
+aaai
+student program
+programme committee
+acl
+workshop
+hybrid approaches
+translation
+hytra
+programme committee
+future directions
+information access
+fdia
+programme committee
+search solutions
+co-organiser
+sigir
+industry track
+industry track presentations
+iiix
+programme committee
+ecir
+industry day
+programme committee
+ecir
+programme committee
+ecir
+workshop
+information retrieval
+query sessions
+sir2012
+programme committee
+irf conference
+programme committee
+board
+student research workshop
+doctoral consortium
+programme committee
+eacl
+joint workshop
+information retrieval
+hybrid machine translation
+programme committee
+lrec
+workshop
+cross-language resources
+disconnected languages
+styles
+programme committee
+international conference
+web intelligence
+programme committee
+stairs
+programme committee
+search solutions
+co-organiser
+ecir
+industry day
+co-chair
+ecir
+programme committee
+future directions
+information access
+fdia
+programme committee
+www
+programme committee
+content analysis track
+irf conference
+programme committee
+invited panelist
+acl hlt
+student session
+programme committee
+hypertext workshop
+personalised multilingual hypertext retrieval
+programme committee
+international conference
+web intelligence
+programme committee
+search solutions
+co-organiser
+article
+itnow acm cikm
+co-chair
+ecir
+co-chair
+conference
+conference report
+sigir forum ecir
+industry day
+co-organiser
+iiix
+programme committee
+ecai
+programme committee
+stairs
+programme committee
+irf conference
+programme committee
+acl
+programme committee
+acl
+student research workshop
+programme committee
+ranlp
+programme committee
+minucs
+programme committee
+ictir
+programme committee
+future directions
+information access
+fdia
+programme committee
+nodalida
+programme committee
+special issue
+journal
+natural language engineering
+interactive qa
+editorial board
+corpus
+workshop
+information interaction
+context
+committee
+workshop
+high-level information extraction
+programme committee
+future directions
+information access
+fdia
+programme committee
+committee
+essex language
+computation group ecir
+programme committee
+sigir
+demonstration committee
+ranlp
+programme committee
+teaching
+information retrieval
+ce306/ce706
+phd students
+dr deirdre lungley dr mahmoud el-haj dr m-dyaa albakour dr suma adindla dr sharhida saad dr azhar alhindi dr jon chamberlain dr roseline antai dr fawaz alarfaj dr maha althobaiti dr silviu paun ans
+subject
+corrections
+gundry
+external co-supervisor
+rob homewood
+external co-supervisor
+chris madge dino ratcliffe
+zimmerman publications
+publications foundation
+trends
+c
+information retrieval book
+enterprise
+review
+intranetfocus
+springer book
+intelligent document retrieval
+review
+informer
+newsletter
+bcs irsg
+review
+reviews udo kruschwitz university
+essex school
+computer science
+electronic engineering wivenhoe park colchester
+tel +44-1206-872669 fax +44-1206-872788 email
+udo @ essex.ac.uk
+c
+udo / last change
+_uacct =
+urchintracker
